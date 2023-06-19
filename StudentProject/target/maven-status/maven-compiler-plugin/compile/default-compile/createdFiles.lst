@@ -1,0 +1,6 @@
+com\student\StudentProject\StudentProjectApplication.class
+com\student\StudentProject\bean\Student.class
+com\student\StudentProject\controller\BusinessException.class
+com\student\StudentProject\controller\StudentController.class
+com\student\StudentProject\service\Studentservice.class
+com\student\StudentProject\repository\StudentRepository.class
